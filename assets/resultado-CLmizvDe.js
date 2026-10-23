@@ -1,0 +1,1 @@
+import{n as e}from"./funnel-v2-DnV_0Dgs.js";var t=e;export{t as component};

@@ -1,0 +1,1 @@
+import{n as e}from"./index-CBCeZGFS.js";import{t}from"./funnel-v2-DnV_0Dgs.js";var n=e();function r(){return(0,n.jsx)(t,{})}export{r as component};
